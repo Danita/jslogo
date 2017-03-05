@@ -1,5 +1,6 @@
 en English
 he עברית
+es_419 Español (Latinoamérica)
 eo Esperanto
 ru Русский
 ja 日本語

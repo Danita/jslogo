@@ -1,0 +1,93 @@
+{
+  "page": {
+    "translations": {
+      "title": "Intérprete Logo",
+      "tl-title": "Intérprete Logo",
+      "tl-tests": "Tests",
+      "tl-source": "Código fuente",
+      "tl-reference": "Referencia",
+      "start-togetherjs": "Colaboración",
+      "no-canvas": "Disculpa, pero tu navegador no soporta el elemento Canvas.",
+      "ip-button-run": "Ejecutar",
+      "ip-button-stop": "Detener",
+      "ip-button-clear": "Borrar",
+      "logo-ta-single-line.placeholder": "Escribe tu programa aquí...",
+      "logo-ta-multi-line.placeholder": "Escribe tu programa aquí...",
+      "sb-link-reference": "Referencia",
+      "sb-link-text-reference": "El lenguaje Logo",
+      "sb-link-library": "Biblioteca",
+      "sb-link-text-library": "Tus procedimientos",
+      "sb-link-history": "Historial",
+      "sb-link-text-history": "Todo lo que has escrito",
+      "sb-link-examples": "Ejemplos",
+      "sb-link-text-examples": "Cosas divertidas para probar",
+      "sb-link-extras": "Extras",
+      "sb-link-text-extras": "Utilidades adicionales",
+      "sb-link-links": "Enlaces",
+      "sb-link-text-links": "Otros recursos sobre Logo",
+      "extras-download-library": "Descargar la biblioteca",
+      "extras-download-drawing": "Descargar el dibujo actual",
+      "extras-clear-history": "Borrar el historial",
+      "extras-clear-library": "Borrar la biblioteca",
+      "github-forkme": "Forkear en Github"
+    }
+  },
+  "interpreter": {
+    "messages": {
+      "Can't apply {_PROC_} to special {name:U}": "No puedo applicar {_PROC_} a la especial {name:U}",
+      "Can't {_PROC_} primitives unless REDEFP is TRUE": "No se puede {_PROC_} primitivas a menos que REDEFP sea VERDADERO",
+      "Can't {_PROC_} special {name:U}": "No se puede {_PROC_} el especial {name:U}",
+      "Couldn't parse: '{string}'": "No se pudo analizar '{string}'",
+      "Division by zero": "División por cero",
+      "Don't know about variable {name:U}": "No conozco la variable {name:U}",
+      "Don't know how to {name:U}": "No sé cómo {name:U}",
+      "Don't know what to do with {result}": "No sé qué hacer con {result}",
+      "Expected ')'": "Se esperaba un ')'",
+      "Expected ')', saw {word}": "Se esperaba un ')', pero se encontró {word}",
+      "Expected ']'": "Se esperaba un ']'",
+      "Expected '}'": "Se esperaba una '}'",
+      "Expected number after @": "Se esperaba un número después de @",
+      "Expected number": "Se esperaba un número",
+      "Expected string": "Se esperaba una cadena",
+      "No output from procedure": "El procedimiento no emite salida alguna",
+      "TO: Expected END":  "PARA: Se esperaba FIN",
+      "TO: Expected identifier": "PARA: Se esperaba un identificador",
+      "Unexpected '{c}'": "'{c}' inesperado",
+      "Unexpected end of instructions": "Se acabaron las instrucciones inesperadamente",
+      "{_PROC_}: Array size must be positive integer": "{_PROC_}: El tamaño del arreglo debe ser un número entero positivo",
+      "{_PROC_}: Can't create circular array": "{_PROC_}: No se puede crear un arreglo circular",
+      "{_PROC_}: Can't overwrite primitives unless REDEFP is TRUE": "{_PROC_}: No se puede sobreescribir primitivas a menos que REDEFP sea VERDADERO",
+      "{_PROC_}: Can't overwrite special {name:U}": "{_PROC_}: No se puede escribir la especial {name:U}",
+      "{_PROC_}: Can't redefine primitive {name:U}": "{_PROC_}: No se puede redefinir la primitiva {name:U}",
+      "{_PROC_}: Can't show definition of primitive {name:U}": "{_PROC_}: No se puede mostrar la definición de la primitiva {name:U}",
+      "{_PROC_}: Expected array": "{_PROC_}: Se esperaba un arreglo",
+      "{_PROC_}: Expected block": "{_PROC_}: Se esperaba un bloque",
+      "{_PROC_}: Expected list of length 2": "{_PROC_}: Se esperaba una lista de dos elementos",
+      "{_PROC_}: Expected list": "{_PROC_}: Se esperaba una lista",
+      "{_PROC_}: Expected lists of equal length": "{_PROC_}: Se esperaban listas de misma longitud",
+      "{_PROC_}: Expected non-empty list": "{_PROC_}: Se esperaba una lista que no estuviera no vacía",
+      "{_PROC_}: Index out of bounds": "{_PROC_}: Índice fuera de rango"
+    },
+    "keywords": {
+      "SINO": "ELSE",
+      "FIN": "END"
+    },
+    "procedures": {
+      "verdadero": "true",
+      "falso": "false"
+    }
+  },
+  "graphics": {
+    "colors": {
+      "rojo": "red",
+      "naranja": "orange",
+      "amarillo": "yellow",
+      "verde": "green",
+      "azul": "blue",
+      "violeta": "violet",
+      "blanco": "white",
+      "gris": "gray",
+      "negro": "black"
+    }
+  }
+}
