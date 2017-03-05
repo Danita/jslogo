@@ -1,5 +1,6 @@
 {
   "page": {
+    "examples": "l10n/examples.es_419.txt",
     "translations": {
       "title": "Intérprete Logo",
       "tl-title": "Intérprete Logo",
@@ -74,7 +75,15 @@
     },
     "procedures": {
       "verdadero": "true",
-      "falso": "false"
+      "falso": "false",
+      "para": "to",
+      "repetir": "repeat",
+      "adelante": "forward",
+      "ad": "forward",
+      "derecha": "right",
+      "de": "right",
+      "borrarpantalla": "clearscreen",
+      "bp": "clearscreen"
     }
   },
   "graphics": {

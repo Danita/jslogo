@@ -1,0 +1,5 @@
+para estrella
+  repetir 5 [ ad 100 de 144 ]
+fin
+borrarpantalla
+estrella
